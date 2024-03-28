@@ -1,0 +1,8 @@
+{
+  "imtbl-zkevm-testnet": {
+    "guild": {
+      "address": "0xD2c0e3119C67d7A21fFC74383fB10e510F706A45",
+      "startBlock": 3540810
+    }
+  }
+}

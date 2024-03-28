@@ -1,0 +1,18 @@
+{
+  "version": "1", 
+  "name": "TokenDeployed",
+  "abis": {
+    "TokenRegistry": {
+      "path": "./wbtc-erc20.abi.json"
+    }
+  },
+  "chains": ["mode-mainnet"],
+  "instances": [
+    {
+      "abi": "TokenRegistry", 
+      "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF", 
+      "startBlock": 190690, 
+      "chain": "mode-mainnet"
+    }
+  ]
+}
