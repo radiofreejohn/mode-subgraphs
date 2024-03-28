@@ -11,7 +11,7 @@ What you'll need for your own:
 
 Caveat: Mode isn't included in The Graph CLI's list of supported networks so some manual editing is needed.
 
-Much of the code for this example was borrowed from [Chainstack](https://docs.chainstack.com/docs/subgraphs-tutorial-indexing-erc-20-token-balance).
+All of the code for this example was borrowed from [Chainstack](https://docs.chainstack.com/docs/subgraphs-tutorial-indexing-erc-20-token-balance).
 
 ## Other fun subgraph resources
 
